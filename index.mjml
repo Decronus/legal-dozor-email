@@ -1,0 +1,202 @@
+<mjml>
+    <mj-body background-color="#F4F4F4" color="#55575d" font-family="Open Sans, sans-serif" width="620px">
+        <mj-section
+            background-color="#28282B"
+            background-repeat="no-repeat"
+            padding-top="41px"
+            padding-bottom="41px"
+            text-align="center"
+            vertical-align="top"
+        >
+            <mj-column width="271px">
+                <mj-image
+                    align="center"
+                    border="none"
+                    padding-top="0"
+                    padding-bottom="0"
+                    src="./images/logo.svg"
+                    target="_blank"
+                    title="Logo"
+                    alt="logo"
+                    width="221px"
+                ></mj-image>
+            </mj-column>
+        </mj-section>
+
+        <mj-section
+            background-color="#ffffff"
+            background-repeat="no-repeat"
+            text-align="left"
+            vertical-align="top"
+            padding="34px 5%"
+        >
+            <mj-column>
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="24px"
+                    font-weight="500"
+                    line-height="32px"
+                    padding="0"
+                >
+                    <p style="margin: 0">Добро пожаловать в Legal Dozor</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section
+            background-color="#ffffff"
+            background-repeat="no-repeat"
+            text-align="left"
+            vertical-align="top"
+            padding="0px 5% 20px"
+        >
+            <mj-column>
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="15px"
+                    font-weight="400"
+                    line-height="22px"
+                    padding="0 0 26px 0"
+                >
+                    <p style="margin: 0">Привет, Николай,</p>
+                </mj-text>
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="15px"
+                    font-weight="400"
+                    line-height="22px"
+                    padding="0"
+                >
+                    <p style="margin: 0">
+                        Спасибо за создание аккаунта! Рады видеть вас в лучшем сервисе для мониторинга контрагентов. В
+                        этом письме указаны данные для входа в ваш аккаунт:
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section
+            background-color="#ffffff"
+            background-repeat="no-repeat"
+            text-align="left"
+            vertical-align="middle"
+            padding="0 5% 8px "
+        >
+            <mj-column width="85px">
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="18px"
+                    font-weight="400"
+                    line-height="24px"
+                    color="#8B8E99"
+                    padding="11px 0"
+                >
+                    <p style="margin: 0">Логин:</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column background-color="#f7f7fe" border-radius="6px" width="100%">
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="18px"
+                    font-weight="400"
+                    line-height="24px"
+                    padding="11px 16px"
+                    align="center"
+                >
+                    <p style="margin: 0; word-break: normal; text-decoration: none; pointer-events: none">
+                        n.m.trenogin@gmail.com
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section
+            background-color="#ffffff"
+            background-repeat="no-repeat"
+            text-align="left"
+            vertical-align="middle"
+            padding="0px 5% 50px"
+        >
+            <mj-column width="85px">
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="18px"
+                    font-weight="400"
+                    line-height="24px"
+                    color="#8B8E99"
+                    padding="11px 0"
+                >
+                    <p style="margin: 0">Пароль:</p>
+                </mj-text>
+            </mj-column>
+
+            <mj-column background-color="#f7f7fe" border-radius="6px" width="100%">
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    font-size="18px"
+                    font-weight="400"
+                    line-height="24px"
+                    padding="11px 16px"
+                    align="center"
+                >
+                    <p style="margin: 0; word-break: normal">187625312341</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#ffffff" padding="0px 30px 57px 30px">
+            <mj-column>
+                <mj-button
+                    font-family="Open Sans, sans-serif"
+                    background-color="#5755FF"
+                    font-size="18px"
+                    font-weight="500"
+                    border-radius="6px"
+                    width="320px"
+                    align="center"
+                    height="55px"
+                    padding="0"
+                    href="https://cabinet.legaldozor.ru"
+                >
+                    Перейти в личный кабинет
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#F2F2FB" padding="14px 30px">
+            <mj-column>
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    color="#2A2B33"
+                    font-size="13px"
+                    line-height="17.7px"
+                    padding="0"
+                >
+                    <p style="margin: 0; margin-bottom: 3px">
+                        Вы видите это электронное письмо, потому что начали регистрацию на legaldozor.ru
+                    </p>
+                    <p style="margin: 0">
+                        Если вы считаете, что получили его по ошибке,
+                        <a href="#" style="color: #6867ff; text-decoration: none">нажмите здесь</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="14px 10px">
+            <mj-column>
+                <mj-text
+                    font-family="Open Sans, sans-serif"
+                    color="#8B8E99"
+                    font-size="13px"
+                    line-height="17.7px"
+                    padding="0"
+                >
+                    <p style="margin: 0; margin-bottom: 3px">Юрлицо 2023. Legal Dozor. Все права защищены</p>
+                    <p style="margin: 0">ИНН 987278942398724789423, ОГРН 48927942379834897342</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
